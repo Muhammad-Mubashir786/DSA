@@ -22,7 +22,7 @@ Welcome to the **DSA Repository** — a structured and hands-on approach to mast
 - Divide and Conquer
 - Greedy Algorithms
 - Dynamic Programming
-- Graph Algorithms (DFS, BFS, Dijkstra, Floyd-Warshall, Kruskal, Prim)
+- Graph Algorithms (DFS, BFS, Dijkstra)
 - Sliding Window, Two Pointers, Bit Manipulation
 
 ---
@@ -30,8 +30,8 @@ Welcome to the **DSA Repository** — a structured and hands-on approach to mast
 ## 🧪 Structure
 
 Each topic includes:
-- ✅ Concept explanation (with diagrams if needed)
-- 💻 Code implementation in C++ (and/or Python)
+- ✅ Concept explanation
+- 💻 Code implementation in C++ 
 - 📈 Time & Space Complexity
 - 📝 Sample Input/Output
 - 🧠 Edge Cases & Common Mistakes
